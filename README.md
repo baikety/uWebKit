@@ -1,4 +1,7 @@
-[![alt uWebKit](http://uwebkit.com/wp-content/uploads/2014/08/uWebKit_FeaturesHeader4.jpg)](http://www.uwebkit.com)
+###uWebKit3 for Unity
+[MultiTabBrowserGif]: https://github.com/uWebKit/uWebKit/wiki/Images/MultitabBrowserOptimized.gif
+![alt text][MultiTabBrowserGif]
+
 ### Download uWebKit 3 Beta Package
 
 #### [http://uwebkit.com/download](http://uwebkit.com/download)
@@ -19,7 +22,7 @@ uWebKit3 is currently in open beta, pricing information is available at  [http:/
 
 Please use this Unity forum thread for uWebKit discussion [http://forum.unity3d.com/threads/uwebkit-html5-for-unity-pro.193978](http://forum.unity3d.com/threads/uwebkit-html5-for-unity-pro.193978)
 
-### uWebKit3 for Unity 5 Features:
+[![alt uWebKit](http://uwebkit.com/wp-content/uploads/2014/08/uWebKit_FeaturesHeader4.jpg)](http://www.uwebkit.com)
 
 + Excellent integration with the Unity3D editor including simple deployment   
 

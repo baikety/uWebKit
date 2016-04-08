@@ -1,14 +1,15 @@
-###uWebKit3 for Unity
-[MultiTabBrowserGif]: https://github.com/uWebKit/uWebKit/wiki/Images/MultitabBrowserOptimized.gif
-![alt text][MultiTabBrowserGif]
+### uWebKit3 for Unity
 
-### Download uWebKit 3 Beta Package
+### Download uWebKit 3 Beta Package 
 
 #### [http://uwebkit.com/download](http://uwebkit.com/download)
 
 #### Getting Started
 
 Please see [https://github.com/uWebKit/uWebKit/wiki/Getting-Started-with-the-uWebKit3-Beta](https://github.com/uWebKit/uWebKit/wiki/Getting-Started-with-the-uWebKit3-Beta)
+
+[MultiTabBrowserGif]: https://github.com/uWebKit/uWebKit/wiki/Images/MultitabBrowserOptimized.gif
+[![alt text][MultiTabBrowserGif]](https://github.com/uWebKit/uWebKit/wiki/Getting-Started-with-the-uWebKit3-Beta)
 
 #### What is uWebKit3?
 

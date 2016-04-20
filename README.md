@@ -17,7 +17,7 @@ A robust and easy way to add HTML5 web content to your PC/Mac application.
 
 #### How much does it cost?
 
-uWebKit3 is currently in open beta, pricing information is available at <a href="http://uwebkit.com/store/" target="_blank">http://uwebkit.com/store/</a>.  uWebKit3 is a free upgrade for uWebKit2 users.
+uWebKit3 is currently in open beta, pricing information is available at <a href="http://uwebkit.com/store/" target="_blank">http://uwebkit.com/store/</a>.
 
 #### Unity Forums Discussion Thread
 
